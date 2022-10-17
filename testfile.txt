@@ -1,3 +1,6 @@
+Hello this is an SSH Connection
+
 This is a test file and i'm using it to learn Git and Github.
 
 This is another commit from my local machine
+
